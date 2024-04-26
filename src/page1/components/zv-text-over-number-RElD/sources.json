@@ -1,0 +1,1 @@
+[{"name":"滚动数字","id":"53","source":{"mapping":[{"mapping":"aniTime","name":"value","label":"值","type":"number","status":true}],"static":[{"value":13256856}],"isAutoUpdate":true,"autoUpdateTime":"86400","api":{"headers":{"token":""},"proxy":false,"isHeaders":false,"cookie":false,"type":"GET","url":"/animeShows/selectAnimeShow"},"type":"api"}}]

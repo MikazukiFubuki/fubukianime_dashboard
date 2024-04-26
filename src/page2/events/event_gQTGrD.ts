@@ -1,0 +1,1 @@
+export default [{"eventType":"click","type":"layer","delay":0,"animations":{"exit":{"duration":1000,"delay":0,"name":"","count":1},"enter":{"duration":1000,"delay":0,"name":"","count":1}},"clickname":"","id":"Kh_5nZ68_2TsUKv4vFOCX","actions":"page","receivingMethod":"","pageAction":"/page1"}]

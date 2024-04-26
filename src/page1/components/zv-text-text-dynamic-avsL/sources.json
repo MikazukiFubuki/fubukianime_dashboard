@@ -1,0 +1,1 @@
+[{"name":"动态文本","id":"54","source":{"mapping":[{"mapping":"aniEva","name":"value","label":"值","type":"number","status":true}],"static":[{"value":"我是动态文本"}],"isAutoUpdate":false,"autoUpdateTime":60,"api":{"headers":{"token":""},"proxy":false,"isHeaders":false,"cookie":false,"type":"GET","url":"/animeShows/selectAnimeShow"},"type":"api"}}]

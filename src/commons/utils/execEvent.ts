@@ -1,0 +1,1 @@
+export const execEvent = (event: any[], type: string, params?: any) => window.SHJParseEvent(event, type, params)

@@ -1,0 +1,66 @@
+@font-face{
+  font-family: 'AlimamaShuHeiTi-Bold';
+  src : url('/fonts/AlimamaShuHeiTi-Bold.woff');
+}
+
+.shj-page {
+    width: 100%;
+    height: 100%;
+    background-color: #E0EEFE;
+
+    &.autoAdapter {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+
+        .shj-page-content {
+            transform-origin: center center;
+        }
+    }
+
+    &.widthAdapter {
+        overflow-x: hidden;
+        overflow-y: auto;
+
+        .shj-page-content {
+            transform-origin: left top;
+        }
+    }
+
+    &.heightAdapter {
+        overflow-y: hidden;
+        overflow-x: auto;
+
+        .shj-page-content {
+            transform-origin: left top;
+        }
+    }
+
+    &.fullAdapter {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+
+        .shj-page-content {
+            transform-origin: center center;
+        }
+    }
+
+    &.originalAdapter {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+    }
+
+    &-content {
+        width: 1920px;
+        height: 1080px;
+        min-width: 1920px;
+        min-height: 1080px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+        overflow: hidden;
+    }
+}

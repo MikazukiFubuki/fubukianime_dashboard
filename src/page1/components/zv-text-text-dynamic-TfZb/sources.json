@@ -1,0 +1,1 @@
+[{"name":"动态文本","id":"54","source":{"mapping":[{"mapping":"bingeWatchingQuarter","name":"value","label":"值","type":"number","status":true}],"static":[{"value":"我是动态文本"}],"isAutoUpdate":true,"autoUpdateTime":"2419200","api":{"headers":{"token":""},"proxy":false,"isHeaders":false,"cookie":false,"type":"GET","url":"/animeQuarters/selectNowQuarter"},"type":"api"}}]

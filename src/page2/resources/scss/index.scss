@@ -1,0 +1,244 @@
+.layer-wrap {
+    position: absolute;
+    left: 0;
+    top: 0;
+    user-select: none;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+
+    .layer-main {
+        width: 100%;
+        height: 100%;
+
+        .layer {
+            width: 100%;
+            height: 100%;
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            display: flex;
+
+            &>* {
+                width: 100%;
+            }
+        }
+        .group {
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+    }
+}
+
+        .layer-wrap_sUTRIM {
+            width: 1911px;
+            height: 974px;
+            transform: matrix(1, 0, 0, 1, 0.0000,  0.0000) rotate(0.0000deg);
+            visibility: visible;
+            z-index: 3;
+            mix-blend-mode: normal;
+
+            .layer-main {
+                transform: rotate(0deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+                transform-origin: 50% 50%;
+                animation: 1000.0ms ease 0.0ms  normal both running 1.0 ;
+                .layer {
+                    border-radius: 0px;
+
+                }
+
+
+            }
+        }
+        .layer-wrap_QFtSht {
+            width: 1920px;
+            height: 969px;
+            transform: matrix(1, 0, 0, 1, 0.0000,  0.0000) rotate(0.0000deg);
+            visibility: visible;
+            z-index: 2;
+            mix-blend-mode: normal;
+
+            .layer-main {
+                transform: rotate(0deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+                transform-origin: 50% 50%;
+                animation: 1000.0ms ease 0.0ms  normal both running 1.0 ;
+                .layer {
+                    border-radius: 0px;
+
+                }
+
+
+            }
+        }
+        .layer-wrap_sHCyze {
+            width: 1455px;
+            height: 151px;
+            transform: matrix(1, 0, 0, 1, 232.5000,  929.0000) rotate(0.0000deg);
+            visibility: visible;
+            z-index: 1;
+            mix-blend-mode: normal;
+
+            .layer-main {
+                transform: rotate(0deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+                transform-origin: 50% 50%;
+                animation: 1000.0ms ease 0.0ms  normal both running 1.0 ;
+                .layer {
+                    border-radius: 0px;
+
+                }
+
+        .layer-wrap_gQTGrD {
+            width: 130px;
+            height: 131px;
+            transform: matrix(1, 0, 0, 1, 895.0000,  929.0000) rotate(0.0000deg);
+            visibility: visible;
+            z-index: 4;
+            mix-blend-mode: normal;
+
+            .layer-main {
+                transform: rotate(0deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+                transform-origin: 50% 50%;
+                animation: 1000.0ms ease 0.0ms  normal both running 1.0 ;
+                .layer {
+                    border-radius: 0px;
+
+                }
+
+
+            }
+        }
+        .layer-wrap_wZaxFr {
+            width: 103px;
+            height: 32px;
+            transform: matrix(1, 0, 0, 1, 788.0000,  1039.0000) rotate(0.0000deg);
+            visibility: visible;
+            z-index: 3;
+            mix-blend-mode: normal;
+
+            .layer-main {
+                transform: rotate(0deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+                transform-origin: 50% 50%;
+                animation: 1000.0ms ease 0.0ms  normal both running 1.0 ;
+                .layer {
+                    border-radius: 5px 5px 5px 5px;
+
+                }
+
+
+            }
+        }
+        .layer-wrap_oXDTFb {
+            width: 103px;
+            height: 32px;
+            transform: matrix(1, 0, 0, 1, 1032.5000,  1039.0000) rotate(0.0000deg);
+            visibility: visible;
+            z-index: 2;
+            mix-blend-mode: normal;
+
+            .layer-main {
+                transform: rotate(0deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+                transform-origin: 50% 50%;
+                animation: 1000.0ms ease 0.0ms  normal both running 1.0 ;
+                .layer {
+                    border-radius: 0px;
+
+                }
+
+
+            }
+        }
+        .layer-wrap_FTvpQB {
+            width: 1455px;
+            height: 111px;
+            transform: matrix(1, 0, 0, 1, 232.5000,  969.0000) rotate(0.0000deg);
+            visibility: visible;
+            z-index: 1;
+            mix-blend-mode: normal;
+            pointer-events: none;
+
+            .layer-main {
+                transform: rotate(0deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+                transform-origin: 50% 50%;
+                animation: 1000.0ms ease 0.0ms  normal both running 1.0 ;
+                pointer-events: none;
+                .layer {
+                    border-radius: 0px;
+                    pointer-events: none;
+                    .img-oyFR {
+                        width: 100%;
+                        height: 100%;
+                        background-image: url('../images/底部bj1-20240409091417127.png');
+                        background-position: center;
+                            background-size: contain;
+                            background-repeat: no-repeat;
+                    }
+
+                }
+
+
+            }
+        }
+        .layer-wrap_XrnSfF {
+            width: 122px;
+            height: 101px;
+            transform: matrix(1, 0, 0, 1, 899.0000,  979.0000) rotate(0.0000deg);
+            visibility: visible;
+            z-index: 0;
+            mix-blend-mode: normal;
+            pointer-events: none;
+
+            .layer-main {
+                transform: rotate(0deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+                transform-origin: 50% 50%;
+                animation: 1000.0ms ease 0.0ms  normal both running 1.0 ;
+                pointer-events: none;
+                .layer {
+                    border-radius: 0px;
+                    pointer-events: none;
+                    .img-ZcbW {
+                        width: 100%;
+                        height: 100%;
+                        background-image: url('../images/底部bj2-20240409091423984.png');
+                        background-position: center;
+                            background-size: contain;
+                            background-repeat: no-repeat;
+                    }
+
+                }
+
+
+            }
+        }
+
+            }
+        }
+        .layer-wrap_Iqarfp {
+            width: 1920px;
+            height: 1080px;
+            transform: matrix(1, 0, 0, 1, 0.0000,  0.0000) rotate(0.0000deg);
+            visibility: visible;
+            z-index: 0;
+            mix-blend-mode: normal;
+            pointer-events: none;
+
+            .layer-main {
+                transform: rotate(0deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+                transform-origin: 50% 50%;
+                animation: 1000.0ms ease 0.0ms  normal both running 1.0 ;
+                pointer-events: none;
+                .layer {
+                    opacity: 35%;
+                    border-radius: 0px;
+                    pointer-events: none;
+                    .img-sWbx {
+                        width: 100%;
+                        height: 100%;
+                        background-image: url('../images/アシマ_2-20240424001939202.png');
+                        background-position: center;
+                            background-size: contain;
+                            background-repeat: no-repeat;
+                    }
+
+                }
+
+
+            }
+        }
